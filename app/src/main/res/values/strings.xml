@@ -1,7 +1,10 @@
 <resources>
     <string name="app_name">My Store</string>
     <string name="store_title">My Store</string>
+    <string name="store_owner_name">HUSSAIN</string>
     <string name="store_owner_badge">Owner: HUSSAIN</string>
+    <string name="store_owner_tooltip">Store Owner: HUSSAIN</string>
+    <string name="store_owner_avatar_desc">Owner avatar for HUSSAIN</string>
     <string name="store_owner_welcome">Welcome to HUSSAIN\'s Official Store</string>
     <string name="store_owner_tagline">Handpicked quality apparel, watches, bags &amp; sportswear by HUSSAIN</string>
     <string name="search_products_hint">Search products...</string>
