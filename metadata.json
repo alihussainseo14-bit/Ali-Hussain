@@ -1,0 +1,6 @@
+{
+  "name": "My Store",
+  "description": "Modern e-commerce shopping application featuring curated apparel, footwear, watches, and leather goods with real-time search, category filtering, persistent shopping cart, and order history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
